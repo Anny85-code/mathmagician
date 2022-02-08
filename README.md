@@ -33,6 +33,7 @@ To run this project, install it locally using:
 - npm install
 - npm start
 
+
 ## Author
 
 👤 **Aniekan udo**
@@ -61,4 +62,5 @@ This project is [MIT](LICENSE) licensed.
 
 ## Contact
 
-Created by [@Anny85-code](https://github.com/Anny85-code)
+Created by [@Anny85-code](https://github.com/Anny85-code).
+
